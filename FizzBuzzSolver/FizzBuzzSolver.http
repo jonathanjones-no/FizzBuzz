@@ -1,6 +1,0 @@
-@FizzBuzzSolver_HostAddress = http://localhost:5077
-
-GET {{FizzBuzzSolver_HostAddress}}/fizzbuzz/
-Accept: application/json
-
-###
